@@ -1,5 +1,2 @@
 Id,Nombre,Usuario,Contrasena
-1,Emilio,Cirno,1234
-2,Josuke,Kuuga,1235
-3,joe,uno,12
-4,otto,otto,123
+1,Emilio,Calel,123
